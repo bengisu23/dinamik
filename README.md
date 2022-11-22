@@ -1,3 +1,3 @@
-<h2> ekran görüntüsü </h2>
+<h2>ekran görüntüsü </h2>
 
-![](dinamik.gif) 
+![](dinamik.gif)
